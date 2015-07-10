@@ -1,0 +1,6 @@
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html
+http://scikit-learn.org/stable/auto_examples/decomposition/plot_kernel_pca.html
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_iris.html
+http://scikit-learn.org/stable/auto_examples/model_selection/randomized_search.html
+http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html#sklearn.grid_search.GridSearchCV
