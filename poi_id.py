@@ -40,10 +40,6 @@ print 'number of people in the dataset: '+ str(len(my_dataset.keys()))
 print 'Removed data point: ' + str(person_null)
 
 
-### Task 3: Create new feature(s)
-### Store to my_dataset for easy export below.
-
-
 print features_list
 
 #Adding new features
@@ -91,7 +87,7 @@ clf = RandomForestClassifier(n_estimators=100, min_samples_split=4,
 
 
 test_classifier(clf, my_dataset, features_list)
-print '\n forest:\n'
+print '\n forest feature importance:\n'
 print clf.feature_importances_
 
 
